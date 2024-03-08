@@ -3,15 +3,15 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  alt="frontend-web-developer" width="400" align="right" >
 
-- 🔭 I’m currently working on **Web 3**
+- 🔭 I’m currently working on **Web 3.**
 
-- 🌱 I’m currently learning **Next Js, Django**
+- 🌱 I’m currently learning **Next Js, Django.**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Frontend Projects.**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React.**
 
-- ⚡ Fun fact **Creativity**
+- ⚡ Fun fact **Creativity.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
