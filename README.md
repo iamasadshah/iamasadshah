@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **GenAI, Web 3.0.**
 
-- 🌱 I’m currently learning **Next Js, Django.**
+- 🌱 I’m currently learning **Next Js, Tailwind.**
 
 - 👯 I’m looking to collaborate on **Frontend Projects.**
 
-- 💬 Ask me about **React.**
+- 💬 Ask me about **React, Next Js, Tailwind**
 
 - ⚡ Fun fact **Creativity.**
 
