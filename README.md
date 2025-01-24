@@ -5,9 +5,9 @@
 <h1 align="center">Hi <a href="https://github.com/asadibnerafi"><img alt="Xmas wave" width=48 height=40 src="http://www.sherv.net/cm/emo/christmas/xmas-wave-smiley-emoticon.gif"></a> , I'm Asad Shah</h1>
 <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  alt="frontend-web-developer" width="400" align="right" >
 
-- 🔭 I’m currently working on **GenAI, Web 3.0.**
+- 🔭 I’m currently working on **Frontend Projects.**
 
-- 🌱 I’m currently learning **Next Js, Tailwind.**
+- 🌱 I’m currently learning **Agentic AI, Generative AI.**
 
 - 👯 I’m looking to collaborate on **Frontend Projects.**
 
