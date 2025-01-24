@@ -5,15 +5,16 @@
 <h1 align="center">Hi <a href="https://github.com/asadibnerafi"><img alt="Xmas wave" width=48 height=40 src="http://www.sherv.net/cm/emo/christmas/xmas-wave-smiley-emoticon.gif"></a> , I'm Asad Shah</h1>
 <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  alt="frontend-web-developer" width="400" align="right" >
 
-- 🔭 I’m currently working on **Frontend Projects.**
+- 🔭 Currently Building: Interactive & dynamic **Frontend Projects**  
 
-- 🌱 I’m currently learning **Agentic AI, Generative AI.**
+- 🌱 Exploring: The power of **Agentic AI & Generative AI**  
 
-- 👯 I’m looking to collaborate on **AI Based Projects.**
+- 👯 Open to Collaborate: On **AI-driven innovations**  
 
-- 💬 Ask me about **React, Next Js, Tailwind**
+- 💬 Ask Me About: **React, Next.js, Tailwind & UI/UX Magic**
 
-- ⚡ Fun fact **Creativity.**
+- ⚡ Fun Fact: My brain runs on **Creativity & Coffee!**
+   
 <!-- Profile Views Badge -->
 ![Profile Views](https://komarev.com/ghpvc/?username=iamasadshah)
 <h3 align="left">Languages and Tools:</h3>
