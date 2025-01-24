@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Agentic AI, Generative AI.**
 
-- 👯 I’m looking to collaborate on **Frontend Projects.**
+- 👯 I’m looking to collaborate on **AI Based Projects.**
 
 - 💬 Ask me about **React, Next Js, Tailwind**
 
