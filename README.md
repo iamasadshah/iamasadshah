@@ -16,6 +16,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamasadshah&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamasadshah&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![Profile Views](https://komarev.com/ghpvc/?username=iamasadshah)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iamasadshah&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
