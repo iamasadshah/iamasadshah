@@ -6,7 +6,7 @@
 <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  alt="frontend-web-developer" width="400" align="right" >
 
 # 💫 About Me:
-🔭 Currently Building: Interactive & dynamic Frontend Projects<br><br>🌱 Exploring: The power of Agentic AI & Generative AI<br><br>👯 Open to Collaborate: On AI-driven innovations<br><br>💬 Ask Me About: React, Next.js, Tailwind & UI/UX Magic<br><br>⚡ Fun Fact: My brain runs on Creativity & Coffee!
+🔭 Currently Building: Interactive & dynamic Web Apps<br><br>🌱 Exploring: The power of Agentic AI & Generative AI<br><br>👯 Open to Collaborate: On AI-driven innovations<br><br>💬 Ask Me About: React, Next.js, Tailwind & UI/UX Magic<br><br>⚡ Fun Fact: My brain runs on Creativity & Coffee!
 
 
 # 💻 Tech Stack:
